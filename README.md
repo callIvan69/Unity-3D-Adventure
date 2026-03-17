@@ -1,5 +1,8 @@
 # Unity 3D Adeventure game
 
+Простая 3D адвенчура, охватывающая основы создания игр 
+на Unity3D .
+
 ## Implemented features
   -Basic UI
   
